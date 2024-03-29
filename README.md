@@ -10,11 +10,11 @@ This project disambiguates what happens in a neural network by building one. The
 For a detailed explanation on the theory used for this computation and an overview on how machines learn, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/linear-regression-from-scratch-using-matrices-991df6e28f62)
 
 ### Code
-You can find the code for this project [here](https://github.com/ayoakin/LinearRegression/blob/main/LinearRegressionScratch.ipynb).
+You can find the code for this project [here](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./blob/main/Image_Rec_Neural_Net_with_ReLU.ipynb).
 
 File overview:
 
-* `LinearRegressionScratch.ipynb` - the full code from this project
+* `Image_Rec_Neural_Net_with_ReLU.ipynb` - the full code from this project
 
 
 ## Environment Setup
@@ -34,4 +34,4 @@ The data used for this implementation is the Fashion MNIST dataset originally on
 
 You can download the exact file used in this project here:
 
-* [Salary_Data.csv](https://github.com/ayoakin/LinearRegression/blob/main/Salary_Data.csv) - the salary  data that we use in this project.
+* [Fashion MNIST_Dataset](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./tree/main/Fashion-MNIST%20dataset) - the salary  data that we use in this project.
