@@ -7,7 +7,7 @@ This project disambiguates what happens in a neural network by building one. The
 * builds a 2 layer neural network from scratch using ReLU and Softmax as an activation function
 * Evaluates accuracy on training, validation and test results with the Fashion MNIST dataset
 
-For a detailed explanation on the theory used for this computation and an overview on how machines learn, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/linear-regression-from-scratch-using-matrices-991df6e28f62)
+For a detailed explanation on the theory used for this computation and an overview on how machines learn, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-a-neural-network-from-scratch-c7e03ad1b501)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./blob/main/Image_Rec_Neural_Net_with_ReLU.ipynb).
