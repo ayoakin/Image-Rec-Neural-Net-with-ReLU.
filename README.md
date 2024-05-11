@@ -34,4 +34,4 @@ The data used for this implementation is the Fashion MNIST dataset originally on
 
 You can download the exact file used in this project here:
 
-* [Fashion MNIST_Dataset](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./tree/main/Fashion-MNIST%20dataset) - the salary  data that we use in this project.
+* [Fashion MNIST_Dataset](https://github.com/ayoakin/Image-Rec-Neural-Net-with-ReLU./tree/main/Fashion-MNIST%20dataset) - the data file used in this project.
